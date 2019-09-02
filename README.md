@@ -1,4 +1,4 @@
-# jmse.rb [![Latest Version][gem-shield]][gem-link] [![Build Status][build-image]][build-link] [![Apache 2.0 License][license-image]][license-link]
+# jmse.rb [![Latest Version][gem-image]][gem-link] [![Build Status][build-image]][build-link] [![Apache 2.0 License][license-image]][license-link]
 
 Ruby implementation of JSON Message Signing and Encryption (JMSE):
 An interoperable, minimalist signing and encryption format for serialized
@@ -64,10 +64,10 @@ without any additional terms or conditions.
 
 [//]: # (badges)
 
-[gem-shield]: https://badge.fury.io/rb/jmse.svg
+[gem-image]: https://badge.fury.io/rb/jmse.svg
 [gem-link]: https://rubygems.org/gems/jmse
-[build-image]: https://secure.travis-ci.org/jmse-json/jmse.rb.svg?branch=master
-[build-link]: http://travis-ci.org/jmse-json/jmse.rb
+[build-image]: https://travis-ci.com/jmse-json/jmse.rb.svg?branch=develop
+[build-link]: http://travis-ci.com/jmse-json/jmse.rb
 [license-image]: https://img.shields.io/badge/license-Apache2.0-blue.svg
 [license-link]: https://github.com/jmse-json/jmse.js/blob/master/LICENSE
 
