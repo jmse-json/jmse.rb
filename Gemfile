@@ -9,5 +9,5 @@ group :development, :test do
   gem "guard-rspec"
   gem "rake"
   gem "rspec", "~> 3.8"
-  gem "rubocop", "0.75.0"
+  gem "rubocop", "0.76.0"
 end
